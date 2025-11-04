@@ -1,4 +1,4 @@
-# Talassify Toolbox 2: JavaScript Essentials — Resource List
+# Talassify Toolbox 2: JavaScript Essentials — Resource List (plus Boostrap library)
 
 This toolbox focuses on learning core JavaScript concepts, manipulating the DOM, and storing data using localStorage — all without frameworks.
 
@@ -33,6 +33,13 @@ This toolbox focuses on learning core JavaScript concepts, manipulating the DOM,
 
 - [Debugging with Chrome DevTools](https://developer.chrome.com/docs/devtools/)  
 - [`console.log()` and Breakpoints Guide](https://www.freecodecamp.org/news/javascript-debugging-guide/)
+
+---
+
+## Bootstrap
+Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+- [Bootstrap Getting Started](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+
 
 ---
 
