@@ -530,4 +530,4 @@ This is the biggest single exercise in the toolbox — everything from Modules 1
 
 ---
 
-*Stuck on anything? Email talassify@gmail.com or drop a message in the [help-javascript-essentials](https://discord.com/channels/1394725774329778267/1535360352718557224) Discord channel. We'd rather answer a "dumb question" now than have you stall out on your progress.*
+*Getting stuck is a normal part of learning to code — it happens to everyone, not just beginners. If something's not clicking, email talassify@gmail.com or drop a message in the [help-javascript-essentials](https://discord.com/channels/1394725774329778267/1535360352718557224) Discord channel. A facilitator will help you work through it — the earlier you ask, the easier it is to fix.*
